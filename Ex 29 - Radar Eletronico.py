@@ -1,6 +1,6 @@
 #if simples, sem o uso do else.
 
-vel = float(input('QUal a sua velocidade? '))
+vel = float(input('Qual a sua velocidade? '))
 
 if vel > 80:
     print('Você excedeu o limite de velocidade de 80 KM/H.')
